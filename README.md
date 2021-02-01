@@ -1,0 +1,2 @@
+# Customer_Segmentation_Project
+Clarusway Customer Segmentation Project Solution
